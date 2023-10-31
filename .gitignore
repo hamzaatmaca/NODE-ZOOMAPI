@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE (VSCode, WebStorm, Sublime Text, vb.)
+.vscode/
+.idea/
+.sublime/
+
+# Diğer
+dist/
+.env
